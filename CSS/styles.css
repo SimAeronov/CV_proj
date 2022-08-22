@@ -1,0 +1,25 @@
+body {
+    background-color: #3A4750;
+}
+hr.hr_1 {
+    border-color: #EEEEEE;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 5px;
+    width: 60%;
+}
+
+h1.text_1 {
+    color: #C8E6F5;
+}
+
+h3.text_1 {
+    color: #EEEEEE;
+}
+
+p.text_1 {
+    color: #EEEEEE;
+}
+a.a_1 {
+    color: #EEEEEE;
+}
